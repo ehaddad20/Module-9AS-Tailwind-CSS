@@ -22,7 +22,7 @@ This is my Module 8 Student Directory project redesigned with Tailwind CSS.
 - Accent: emerald 500
 
 ## How to run
-```
+
 npm install
 npm run dev
-```
+

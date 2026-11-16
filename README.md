@@ -26,7 +26,3 @@ This is my Module 8 Student Directory project redesigned with Tailwind CSS.
 npm install
 npm run dev
 ```
-
-## Links
-- GitHub: (add link)
-- Live site: (add Vercel link)
